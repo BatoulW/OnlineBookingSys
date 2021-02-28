@@ -1,0 +1,15 @@
+CarModel=   Lexus LX570
+CarType=   SUV
+CarYear= 2017
+Available= yes
+
+CarModel=   Hyundai Elentra
+CarType=   SEDAN
+CarYear= 2016
+Available= no
+
+CarModel=   Toyota Corolla
+CarType=   SEDAN
+CarYear= 2015
+Available= no
+

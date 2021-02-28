@@ -1,0 +1,48 @@
+MovieName=        The Accountant
+MoiveDirector=        Steven Segal
+Movieday= 12
+Moviemonth= 12
+Movieyear= 12
+MovieTime=   12
+availableseats= 10
+
+MovieName=        Die hard
+MoiveDirector=        Tom Cruise
+Movieday= 3
+Moviemonth= 3
+Movieyear= 33
+MovieTime= 3
+availableseats= 8
+
+MovieName=        No Regrets
+MoiveDirector=        Silvester Stallone
+Movieday= 1
+Moviemonth= 2
+Movieyear= 2017
+MovieTime=        07:30 PM
+availableseats= 20
+
+MovieName=        Hangover 3
+MoiveDirector=        Mcully Kelkin
+Movieday= 25
+Moviemonth= 11
+Movieyear= 2017
+MovieTime=        09:30 PM
+availableseats= 30
+
+MovieName=      Jungle
+MoiveDirector=      haldd asd
+Movieday= 12
+Moviemonth= 12
+Movieyear= 20122
+MovieTime=      k1j2jl
+availableseats= 11
+
+MovieName=  Die road
+MoiveDirector=  kevin
+Movieday= 28
+Moviemonth= 7
+Movieyear= 2009
+MovieTime=  12:30 pm
+availableseats= 70
+
